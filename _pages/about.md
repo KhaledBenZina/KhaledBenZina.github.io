@@ -2,9 +2,9 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/image_about.jpg"
 ---
 
-I'm a junior data scientist working on aeronautical data gathering, scrapping, visualization and machine learning algorithms.
+With an aerospace engineering background, I apply Machine Learning solutions on complex problems on the aeronautical industry every day. I help my team collect, process and store data on Airbus Cloud platform Skywise. I also create dashboards with the latest data visualization tools such as Qlick or Spotfire. In general, I can say that I am a data enthusiast trying to perform at the best level every day.
 
 
